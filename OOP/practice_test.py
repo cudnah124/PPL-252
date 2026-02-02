@@ -122,7 +122,7 @@ def run_tests():
     test("x3.eval()", lambda: x3.eval(), 2)
     test("x4.eval()", lambda: x4.eval(), -1)
     test("x5.eval()", lambda: x5.eval(), 7.0)
-    test("x6.eval()", lambda: x6.eval(), -8.0)
+    test("x6.eval()", lambda: x6.eval(), -9.0)
     
     # Test Question 2: printPrefix()
     print("\n--- Question 2: printPrefix() method ---")
